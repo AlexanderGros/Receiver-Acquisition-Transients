@@ -1,0 +1,13 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) releases/2024a
+job start at Thu Aug 27 05:34:36 CEST 2026
+Found 1600 .bin files. Processing and extracting non-overlapping windows...
+
+Saving dataset to trans_data.h5...
+Total windows extracted: 319809
+Data shape: (319809, 4096)
+HDF5 dataset creation completed successfully!
+job end at Thu Aug 27 05:44:07 CEST 2026
+Job duration: 0d 0h 9m 31s

@@ -1,0 +1,289 @@
+model,weights,stage,true_modulation,pred_modulation,count,percentage
+constellation,corrected,Early (w < 5),BPSK,BPSK,1998,99.9
+constellation,corrected,Early (w < 5),BPSK,QPSK,0,0.0
+constellation,corrected,Early (w < 5),BPSK,8PSK,0,0.0
+constellation,corrected,Early (w < 5),BPSK,QAM16,2,0.1
+constellation,corrected,Early (w < 5),QPSK,BPSK,1,0.05
+constellation,corrected,Early (w < 5),QPSK,QPSK,1467,73.35
+constellation,corrected,Early (w < 5),QPSK,8PSK,176,8.8
+constellation,corrected,Early (w < 5),QPSK,QAM16,356,17.8
+constellation,corrected,Early (w < 5),8PSK,BPSK,4,0.2
+constellation,corrected,Early (w < 5),8PSK,QPSK,0,0.0
+constellation,corrected,Early (w < 5),8PSK,8PSK,1558,78.29
+constellation,corrected,Early (w < 5),8PSK,QAM16,428,21.51
+constellation,corrected,Early (w < 5),QAM16,BPSK,1,0.05
+constellation,corrected,Early (w < 5),QAM16,QPSK,0,0.0
+constellation,corrected,Early (w < 5),QAM16,8PSK,0,0.0
+constellation,corrected,Early (w < 5),QAM16,QAM16,1999,99.95
+constellation,corrected,Late (w >= 15),BPSK,BPSK,65443,99.66
+constellation,corrected,Late (w >= 15),BPSK,QPSK,0,0.0
+constellation,corrected,Late (w >= 15),BPSK,8PSK,0,0.0
+constellation,corrected,Late (w >= 15),BPSK,QAM16,223,0.34
+constellation,corrected,Late (w >= 15),QPSK,BPSK,95,0.16
+constellation,corrected,Late (w >= 15),QPSK,QPSK,20612,33.81
+constellation,corrected,Late (w >= 15),QPSK,8PSK,27169,44.57
+constellation,corrected,Late (w >= 15),QPSK,QAM16,13082,21.46
+constellation,corrected,Late (w >= 15),8PSK,BPSK,147,0.24
+constellation,corrected,Late (w >= 15),8PSK,QPSK,0,0.0
+constellation,corrected,Late (w >= 15),8PSK,8PSK,47181,78.04
+constellation,corrected,Late (w >= 15),8PSK,QAM16,13130,21.72
+constellation,corrected,Late (w >= 15),QAM16,BPSK,5,0.01
+constellation,corrected,Late (w >= 15),QAM16,QPSK,0,0.0
+constellation,corrected,Late (w >= 15),QAM16,8PSK,0,0.0
+constellation,corrected,Late (w >= 15),QAM16,QAM16,73987,99.99
+constellation,corrected,Full (All w),BPSK,BPSK,71424,99.66
+constellation,corrected,Full (All w),BPSK,QPSK,0,0.0
+constellation,corrected,Full (All w),BPSK,8PSK,0,0.0
+constellation,corrected,Full (All w),BPSK,QAM16,242,0.34
+constellation,corrected,Full (All w),QPSK,BPSK,104,0.16
+constellation,corrected,Full (All w),QPSK,QPSK,24576,36.7
+constellation,corrected,Full (All w),QPSK,8PSK,27836,41.57
+constellation,corrected,Full (All w),QPSK,QAM16,14442,21.57
+constellation,corrected,Full (All w),8PSK,BPSK,160,0.24
+constellation,corrected,Full (All w),8PSK,QPSK,0,0.0
+constellation,corrected,Full (All w),8PSK,8PSK,51585,77.66
+constellation,corrected,Full (All w),8PSK,QAM16,14683,22.1
+constellation,corrected,Full (All w),QAM16,BPSK,6,0.01
+constellation,corrected,Full (All w),QAM16,QPSK,0,0.0
+constellation,corrected,Full (All w),QAM16,8PSK,0,0.0
+constellation,corrected,Full (All w),QAM16,QAM16,79986,99.99
+constellation,raw,Early (w < 5),BPSK,BPSK,58,2.9
+constellation,raw,Early (w < 5),BPSK,QPSK,1711,85.55
+constellation,raw,Early (w < 5),BPSK,8PSK,230,11.5
+constellation,raw,Early (w < 5),BPSK,QAM16,1,0.05
+constellation,raw,Early (w < 5),QPSK,BPSK,98,4.9
+constellation,raw,Early (w < 5),QPSK,QPSK,1353,67.65
+constellation,raw,Early (w < 5),QPSK,8PSK,532,26.6
+constellation,raw,Early (w < 5),QPSK,QAM16,17,0.85
+constellation,raw,Early (w < 5),8PSK,BPSK,106,5.33
+constellation,raw,Early (w < 5),8PSK,QPSK,1592,80.0
+constellation,raw,Early (w < 5),8PSK,8PSK,275,13.82
+constellation,raw,Early (w < 5),8PSK,QAM16,17,0.85
+constellation,raw,Early (w < 5),QAM16,BPSK,164,8.2
+constellation,raw,Early (w < 5),QAM16,QPSK,0,0.0
+constellation,raw,Early (w < 5),QAM16,8PSK,0,0.0
+constellation,raw,Early (w < 5),QAM16,QAM16,1836,91.8
+constellation,raw,Late (w >= 15),BPSK,BPSK,2733,4.16
+constellation,raw,Late (w >= 15),BPSK,QPSK,55630,84.72
+constellation,raw,Late (w >= 15),BPSK,8PSK,7193,10.95
+constellation,raw,Late (w >= 15),BPSK,QAM16,110,0.17
+constellation,raw,Late (w >= 15),QPSK,BPSK,3275,5.37
+constellation,raw,Late (w >= 15),QPSK,QPSK,45425,74.52
+constellation,raw,Late (w >= 15),QPSK,8PSK,11827,19.4
+constellation,raw,Late (w >= 15),QPSK,QAM16,431,0.71
+constellation,raw,Late (w >= 15),8PSK,BPSK,3459,5.72
+constellation,raw,Late (w >= 15),8PSK,QPSK,48100,79.56
+constellation,raw,Late (w >= 15),8PSK,8PSK,8046,13.31
+constellation,raw,Late (w >= 15),8PSK,QAM16,853,1.41
+constellation,raw,Late (w >= 15),QAM16,BPSK,5304,7.17
+constellation,raw,Late (w >= 15),QAM16,QPSK,0,0.0
+constellation,raw,Late (w >= 15),QAM16,8PSK,0,0.0
+constellation,raw,Late (w >= 15),QAM16,QAM16,68688,92.83
+constellation,raw,Full (All w),BPSK,BPSK,2959,4.13
+constellation,raw,Full (All w),BPSK,QPSK,60671,84.66
+constellation,raw,Full (All w),BPSK,8PSK,7919,11.05
+constellation,raw,Full (All w),BPSK,QAM16,117,0.16
+constellation,raw,Full (All w),QPSK,BPSK,3693,5.52
+constellation,raw,Full (All w),QPSK,QPSK,49354,73.71
+constellation,raw,Full (All w),QPSK,8PSK,13400,20.01
+constellation,raw,Full (All w),QPSK,QAM16,511,0.76
+constellation,raw,Full (All w),8PSK,BPSK,3868,5.82
+constellation,raw,Full (All w),8PSK,QPSK,52645,79.25
+constellation,raw,Full (All w),8PSK,8PSK,8972,13.51
+constellation,raw,Full (All w),8PSK,QAM16,943,1.42
+constellation,raw,Full (All w),QAM16,BPSK,5719,7.15
+constellation,raw,Full (All w),QAM16,QPSK,0,0.0
+constellation,raw,Full (All w),QAM16,8PSK,0,0.0
+constellation,raw,Full (All w),QAM16,QAM16,74273,92.85
+model2,corrected,Early (w < 5),BPSK,BPSK,2000,100.0
+model2,corrected,Early (w < 5),BPSK,QPSK,0,0.0
+model2,corrected,Early (w < 5),BPSK,8PSK,0,0.0
+model2,corrected,Early (w < 5),BPSK,QAM16,0,0.0
+model2,corrected,Early (w < 5),QPSK,BPSK,28,1.4
+model2,corrected,Early (w < 5),QPSK,QPSK,1053,52.65
+model2,corrected,Early (w < 5),QPSK,8PSK,564,28.2
+model2,corrected,Early (w < 5),QPSK,QAM16,355,17.75
+model2,corrected,Early (w < 5),8PSK,BPSK,29,1.46
+model2,corrected,Early (w < 5),8PSK,QPSK,0,0.0
+model2,corrected,Early (w < 5),8PSK,8PSK,1129,56.73
+model2,corrected,Early (w < 5),8PSK,QAM16,832,41.81
+model2,corrected,Early (w < 5),QAM16,BPSK,78,3.9
+model2,corrected,Early (w < 5),QAM16,QPSK,0,0.0
+model2,corrected,Early (w < 5),QAM16,8PSK,0,0.0
+model2,corrected,Early (w < 5),QAM16,QAM16,1922,96.1
+model2,corrected,Late (w >= 15),BPSK,BPSK,65666,100.0
+model2,corrected,Late (w >= 15),BPSK,QPSK,0,0.0
+model2,corrected,Late (w >= 15),BPSK,8PSK,0,0.0
+model2,corrected,Late (w >= 15),BPSK,QAM16,0,0.0
+model2,corrected,Late (w >= 15),QPSK,BPSK,777,1.27
+model2,corrected,Late (w >= 15),QPSK,QPSK,9251,15.18
+model2,corrected,Late (w >= 15),QPSK,8PSK,35690,58.55
+model2,corrected,Late (w >= 15),QPSK,QAM16,15240,25.0
+model2,corrected,Late (w >= 15),8PSK,BPSK,1258,2.08
+model2,corrected,Late (w >= 15),8PSK,QPSK,0,0.0
+model2,corrected,Late (w >= 15),8PSK,8PSK,35253,58.31
+model2,corrected,Late (w >= 15),8PSK,QAM16,23947,39.61
+model2,corrected,Late (w >= 15),QAM16,BPSK,3999,5.4
+model2,corrected,Late (w >= 15),QAM16,QPSK,0,0.0
+model2,corrected,Late (w >= 15),QAM16,8PSK,0,0.0
+model2,corrected,Late (w >= 15),QAM16,QAM16,69993,94.6
+model2,corrected,Full (All w),BPSK,BPSK,71666,100.0
+model2,corrected,Full (All w),BPSK,QPSK,0,0.0
+model2,corrected,Full (All w),BPSK,8PSK,0,0.0
+model2,corrected,Full (All w),BPSK,QAM16,0,0.0
+model2,corrected,Full (All w),QPSK,BPSK,900,1.34
+model2,corrected,Full (All w),QPSK,QPSK,11854,17.7
+model2,corrected,Full (All w),QPSK,8PSK,37616,56.18
+model2,corrected,Full (All w),QPSK,QAM16,16588,24.77
+model2,corrected,Full (All w),8PSK,BPSK,1395,2.1
+model2,corrected,Full (All w),8PSK,QPSK,0,0.0
+model2,corrected,Full (All w),8PSK,8PSK,38428,57.85
+model2,corrected,Full (All w),8PSK,QAM16,26605,40.05
+model2,corrected,Full (All w),QAM16,BPSK,4217,5.27
+model2,corrected,Full (All w),QAM16,QPSK,0,0.0
+model2,corrected,Full (All w),QAM16,8PSK,0,0.0
+model2,corrected,Full (All w),QAM16,QAM16,75775,94.73
+model2,raw,Early (w < 5),BPSK,BPSK,1,0.05
+model2,raw,Early (w < 5),BPSK,QPSK,0,0.0
+model2,raw,Early (w < 5),BPSK,8PSK,0,0.0
+model2,raw,Early (w < 5),BPSK,QAM16,1999,99.95
+model2,raw,Early (w < 5),QPSK,BPSK,0,0.0
+model2,raw,Early (w < 5),QPSK,QPSK,2,0.1
+model2,raw,Early (w < 5),QPSK,8PSK,1523,76.15
+model2,raw,Early (w < 5),QPSK,QAM16,475,23.75
+model2,raw,Early (w < 5),8PSK,BPSK,0,0.0
+model2,raw,Early (w < 5),8PSK,QPSK,0,0.0
+model2,raw,Early (w < 5),8PSK,8PSK,1135,57.04
+model2,raw,Early (w < 5),8PSK,QAM16,855,42.96
+model2,raw,Early (w < 5),QAM16,BPSK,0,0.0
+model2,raw,Early (w < 5),QAM16,QPSK,1,0.05
+model2,raw,Early (w < 5),QAM16,8PSK,483,24.15
+model2,raw,Early (w < 5),QAM16,QAM16,1516,75.8
+model2,raw,Late (w >= 15),BPSK,BPSK,39,0.06
+model2,raw,Late (w >= 15),BPSK,QPSK,17,0.03
+model2,raw,Late (w >= 15),BPSK,8PSK,1,0.0
+model2,raw,Late (w >= 15),BPSK,QAM16,65609,99.91
+model2,raw,Late (w >= 15),QPSK,BPSK,0,0.0
+model2,raw,Late (w >= 15),QPSK,QPSK,42,0.07
+model2,raw,Late (w >= 15),QPSK,8PSK,41002,67.26
+model2,raw,Late (w >= 15),QPSK,QAM16,19914,32.67
+model2,raw,Late (w >= 15),8PSK,BPSK,0,0.0
+model2,raw,Late (w >= 15),8PSK,QPSK,1,0.0
+model2,raw,Late (w >= 15),8PSK,8PSK,34150,56.49
+model2,raw,Late (w >= 15),8PSK,QAM16,26307,43.51
+model2,raw,Late (w >= 15),QAM16,BPSK,0,0.0
+model2,raw,Late (w >= 15),QAM16,QPSK,1,0.0
+model2,raw,Late (w >= 15),QAM16,8PSK,14164,19.14
+model2,raw,Late (w >= 15),QAM16,QAM16,59827,80.86
+model2,raw,Full (All w),BPSK,BPSK,42,0.06
+model2,raw,Full (All w),BPSK,QPSK,19,0.03
+model2,raw,Full (All w),BPSK,8PSK,2,0.0
+model2,raw,Full (All w),BPSK,QAM16,71603,99.91
+model2,raw,Full (All w),QPSK,BPSK,0,0.0
+model2,raw,Full (All w),QPSK,QPSK,46,0.07
+model2,raw,Full (All w),QPSK,8PSK,45270,67.61
+model2,raw,Full (All w),QPSK,QAM16,21642,32.32
+model2,raw,Full (All w),8PSK,BPSK,0,0.0
+model2,raw,Full (All w),8PSK,QPSK,1,0.0
+model2,raw,Full (All w),8PSK,8PSK,37336,56.21
+model2,raw,Full (All w),8PSK,QAM16,29091,43.79
+model2,raw,Full (All w),QAM16,BPSK,0,0.0
+model2,raw,Full (All w),QAM16,QPSK,2,0.0
+model2,raw,Full (All w),QAM16,8PSK,15589,19.49
+model2,raw,Full (All w),QAM16,QAM16,64401,80.51
+constellation_channel,corrected,Early (w < 5),BPSK,BPSK,2000,100.0
+constellation_channel,corrected,Early (w < 5),BPSK,QPSK,0,0.0
+constellation_channel,corrected,Early (w < 5),BPSK,8PSK,0,0.0
+constellation_channel,corrected,Early (w < 5),BPSK,QAM16,0,0.0
+constellation_channel,corrected,Early (w < 5),QPSK,BPSK,1,0.05
+constellation_channel,corrected,Early (w < 5),QPSK,QPSK,1901,95.05
+constellation_channel,corrected,Early (w < 5),QPSK,8PSK,86,4.3
+constellation_channel,corrected,Early (w < 5),QPSK,QAM16,12,0.6
+constellation_channel,corrected,Early (w < 5),8PSK,BPSK,0,0.0
+constellation_channel,corrected,Early (w < 5),8PSK,QPSK,72,3.62
+constellation_channel,corrected,Early (w < 5),8PSK,8PSK,1902,95.58
+constellation_channel,corrected,Early (w < 5),8PSK,QAM16,16,0.8
+constellation_channel,corrected,Early (w < 5),QAM16,BPSK,0,0.0
+constellation_channel,corrected,Early (w < 5),QAM16,QPSK,1847,92.35
+constellation_channel,corrected,Early (w < 5),QAM16,8PSK,143,7.15
+constellation_channel,corrected,Early (w < 5),QAM16,QAM16,10,0.5
+constellation_channel,corrected,Late (w >= 15),BPSK,BPSK,65648,99.97
+constellation_channel,corrected,Late (w >= 15),BPSK,QPSK,11,0.02
+constellation_channel,corrected,Late (w >= 15),BPSK,8PSK,0,0.0
+constellation_channel,corrected,Late (w >= 15),BPSK,QAM16,7,0.01
+constellation_channel,corrected,Late (w >= 15),QPSK,BPSK,17,0.03
+constellation_channel,corrected,Late (w >= 15),QPSK,QPSK,58779,96.43
+constellation_channel,corrected,Late (w >= 15),QPSK,8PSK,1954,3.21
+constellation_channel,corrected,Late (w >= 15),QPSK,QAM16,208,0.34
+constellation_channel,corrected,Late (w >= 15),8PSK,BPSK,0,0.0
+constellation_channel,corrected,Late (w >= 15),8PSK,QPSK,657,1.09
+constellation_channel,corrected,Late (w >= 15),8PSK,8PSK,59205,97.93
+constellation_channel,corrected,Late (w >= 15),8PSK,QAM16,596,0.99
+constellation_channel,corrected,Late (w >= 15),QAM16,BPSK,0,0.0
+constellation_channel,corrected,Late (w >= 15),QAM16,QPSK,63796,86.22
+constellation_channel,corrected,Late (w >= 15),QAM16,8PSK,9689,13.09
+constellation_channel,corrected,Late (w >= 15),QAM16,QAM16,507,0.69
+constellation_channel,corrected,Full (All w),BPSK,BPSK,71647,99.97
+constellation_channel,corrected,Full (All w),BPSK,QPSK,12,0.02
+constellation_channel,corrected,Full (All w),BPSK,8PSK,0,0.0
+constellation_channel,corrected,Full (All w),BPSK,QAM16,7,0.01
+constellation_channel,corrected,Full (All w),QPSK,BPSK,19,0.03
+constellation_channel,corrected,Full (All w),QPSK,QPSK,64477,96.29
+constellation_channel,corrected,Full (All w),QPSK,8PSK,2209,3.3
+constellation_channel,corrected,Full (All w),QPSK,QAM16,253,0.38
+constellation_channel,corrected,Full (All w),8PSK,BPSK,0,0.0
+constellation_channel,corrected,Full (All w),8PSK,QPSK,809,1.22
+constellation_channel,corrected,Full (All w),8PSK,8PSK,64966,97.8
+constellation_channel,corrected,Full (All w),8PSK,QAM16,653,0.98
+constellation_channel,corrected,Full (All w),QAM16,BPSK,0,0.0
+constellation_channel,corrected,Full (All w),QAM16,QPSK,69425,86.79
+constellation_channel,corrected,Full (All w),QAM16,8PSK,10031,12.54
+constellation_channel,corrected,Full (All w),QAM16,QAM16,536,0.67
+model2_channel,corrected,Early (w < 5),BPSK,BPSK,2000,100.0
+model2_channel,corrected,Early (w < 5),BPSK,QPSK,0,0.0
+model2_channel,corrected,Early (w < 5),BPSK,8PSK,0,0.0
+model2_channel,corrected,Early (w < 5),BPSK,QAM16,0,0.0
+model2_channel,corrected,Early (w < 5),QPSK,BPSK,3,0.15
+model2_channel,corrected,Early (w < 5),QPSK,QPSK,1909,95.45
+model2_channel,corrected,Early (w < 5),QPSK,8PSK,69,3.45
+model2_channel,corrected,Early (w < 5),QPSK,QAM16,19,0.95
+model2_channel,corrected,Early (w < 5),8PSK,BPSK,0,0.0
+model2_channel,corrected,Early (w < 5),8PSK,QPSK,243,12.21
+model2_channel,corrected,Early (w < 5),8PSK,8PSK,1733,87.09
+model2_channel,corrected,Early (w < 5),8PSK,QAM16,14,0.7
+model2_channel,corrected,Early (w < 5),QAM16,BPSK,0,0.0
+model2_channel,corrected,Early (w < 5),QAM16,QPSK,1199,59.95
+model2_channel,corrected,Early (w < 5),QAM16,8PSK,797,39.85
+model2_channel,corrected,Early (w < 5),QAM16,QAM16,4,0.2
+model2_channel,corrected,Late (w >= 15),BPSK,BPSK,65664,100.0
+model2_channel,corrected,Late (w >= 15),BPSK,QPSK,0,0.0
+model2_channel,corrected,Late (w >= 15),BPSK,8PSK,0,0.0
+model2_channel,corrected,Late (w >= 15),BPSK,QAM16,2,0.0
+model2_channel,corrected,Late (w >= 15),QPSK,BPSK,44,0.07
+model2_channel,corrected,Late (w >= 15),QPSK,QPSK,58743,96.37
+model2_channel,corrected,Late (w >= 15),QPSK,8PSK,1917,3.14
+model2_channel,corrected,Late (w >= 15),QPSK,QAM16,254,0.42
+model2_channel,corrected,Late (w >= 15),8PSK,BPSK,1,0.0
+model2_channel,corrected,Late (w >= 15),8PSK,QPSK,6637,10.98
+model2_channel,corrected,Late (w >= 15),8PSK,8PSK,53229,88.04
+model2_channel,corrected,Late (w >= 15),8PSK,QAM16,591,0.98
+model2_channel,corrected,Late (w >= 15),QAM16,BPSK,1,0.0
+model2_channel,corrected,Late (w >= 15),QAM16,QPSK,36244,48.98
+model2_channel,corrected,Late (w >= 15),QAM16,8PSK,37496,50.68
+model2_channel,corrected,Late (w >= 15),QAM16,QAM16,251,0.34
+model2_channel,corrected,Full (All w),BPSK,BPSK,71664,100.0
+model2_channel,corrected,Full (All w),BPSK,QPSK,0,0.0
+model2_channel,corrected,Full (All w),BPSK,8PSK,0,0.0
+model2_channel,corrected,Full (All w),BPSK,QAM16,2,0.0
+model2_channel,corrected,Full (All w),QPSK,BPSK,48,0.07
+model2_channel,corrected,Full (All w),QPSK,QPSK,64452,96.26
+model2_channel,corrected,Full (All w),QPSK,8PSK,2144,3.2
+model2_channel,corrected,Full (All w),QPSK,QAM16,314,0.47
+model2_channel,corrected,Full (All w),8PSK,BPSK,1,0.0
+model2_channel,corrected,Full (All w),8PSK,QPSK,7329,11.03
+model2_channel,corrected,Full (All w),8PSK,8PSK,58444,87.98
+model2_channel,corrected,Full (All w),8PSK,QAM16,654,0.98
+model2_channel,corrected,Full (All w),QAM16,BPSK,1,0.0
+model2_channel,corrected,Full (All w),QAM16,QPSK,40328,50.42
+model2_channel,corrected,Full (All w),QAM16,8PSK,39401,49.26
+model2_channel,corrected,Full (All w),QAM16,QAM16,262,0.33

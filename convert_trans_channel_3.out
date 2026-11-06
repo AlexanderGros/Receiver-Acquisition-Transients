@@ -1,0 +1,48 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) releases/2024a
+job start at Tue Sep 15 08:01:05 CEST 2026
+Found 1598 .bin files. Processing and extracting non-overlapping windows...
+[SKIP] QPSK_a0.400_sps2_corrected_run41.bin did not converge (tail EVM: 0.399 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run94.bin did not converge (tail EVM: 0.383 > 0.38)
+[SKIP] QPSK_a0.400_sps8_corrected_run99.bin did not converge (tail EVM: 0.642 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run76.bin did not converge (tail EVM: 0.387 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run29.bin did not converge (tail EVM: 0.432 > 0.38)
+[SKIP] QPSK_a0.400_sps8_corrected_run98.bin did not converge (tail EVM: 0.643 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run82.bin did not converge (tail EVM: 0.422 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run97.bin did not converge (tail EVM: 0.385 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run9.bin did not converge (tail EVM: 0.402 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run1.bin did not converge (tail EVM: 0.455 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run90.bin did not converge (tail EVM: 0.388 > 0.38)
+[SKIP] QPSK_a0.400_sps8_corrected_run97.bin did not converge (tail EVM: 0.646 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run37.bin did not converge (tail EVM: 0.392 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run88.bin did not converge (tail EVM: 0.397 > 0.38)
+[SKIP] QPSK_a0.400_sps8_corrected_run96.bin did not converge (tail EVM: 0.827 > 0.38)
+[SKIP] QPSK_a0.400_sps2_corrected_run60.bin did not converge (tail EVM: 0.410 > 0.38)
+[SKIP] 8PSK_a0.400_sps4_corrected_run0.bin did not converge (tail EVM: 0.384 > 0.38)
+[SKIP] 8PSK_a0.400_sps2_corrected_run3.bin did not converge (tail EVM: 0.469 > 0.38)
+[SKIP] 8PSK_a0.400_sps2_corrected_run2.bin did not converge (tail EVM: 0.489 > 0.38)
+[SKIP] 8PSK_a0.400_sps2_corrected_run39.bin did not converge (tail EVM: 0.382 > 0.38)
+[SKIP] 8PSK_a0.400_sps2_corrected_run12.bin did not converge (tail EVM: 0.399 > 0.38)
+[SKIP] 8PSK_a0.400_sps2_corrected_run4.bin did not converge (tail EVM: 0.470 > 0.38)
+[SKIP] BPSK_a0.400_sps2_corrected_run34.bin did not converge (tail EVM: 0.382 > 0.38)
+[SKIP] BPSK_a0.400_sps2_corrected_run28.bin did not converge (tail EVM: 0.398 > 0.38)
+[SKIP] BPSK_a0.400_sps2_corrected_run97.bin did not converge (tail EVM: 0.387 > 0.38)
+
+--- CONVERGENCE SUMMARY ---
+Total files checked: 1598
+Total unconverged files: 25 (1.56%)
+Unconverged files per modulation:
+  - 8PSK: 6/398 failed (1.51%)
+  - BPSK: 3/400 failed (0.75%)
+  - QAM16: 0/400 failed (0.00%)
+  - QPSK: 16/400 failed (4.00%)
+---------------------------
+
+Saving dataset to trans_data_channel_3.h5...
+Total windows extracted: 287730
+Data shape: (287730, 4096)
+HDF5 dataset creation completed successfully!
+job end at Tue Sep 15 08:13:13 CEST 2026
+Job duration: 0d 0h 12m 8s
